@@ -6,7 +6,7 @@ affiliation: University of Lausanne
 aliases:
   - J. Goudet
 links:
-  github: jgx68
+  github: jgx65
 ---
 
 A little bit about Jerome's career
