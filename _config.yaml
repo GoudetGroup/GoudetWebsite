@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Goudet Group
 subtitle: Research group supervised by Jérôme Goudet, University of Lausanne
-description: I love PopGen
+description:
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
