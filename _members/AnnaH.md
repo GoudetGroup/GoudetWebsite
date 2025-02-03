@@ -1,6 +1,6 @@
 ---
 name: Anna Hewett
-image: images/AnnaH.JPG
+image: images/AnnaH.jpg
 role: postdoc
 group: alum
 links:
