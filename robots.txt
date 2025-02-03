@@ -1,1 +1,1 @@
-Sitemap: https://goudetgroup.github.io/GoudetWebsite.github.io/sitemap.xml
+Sitemap: https://goudetgroup.github.io/GoudetWebsite/sitemap.xml
