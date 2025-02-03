@@ -616,6 +616,8 @@
 <div class="portrait-wrapper">
   <a class="portrait" data-style="" aria-label="Hugo Corval">
     
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
 
     <img src="/GoudetWebsite/images/HugoC.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/GoudetWebsite/images/fallback.svg'; this.onerror = null;" />
 
@@ -625,6 +627,10 @@
       </span>
     
 
+    
+      <span class="portrait-description">
+        PhD Student
+      </span>
     
 
     
