@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Goudet Group
 subtitle: Research group supervised by Jérôme Goudet, University of Lausanne
-description: Blabla popGen
+description: I love PopGen
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -10,7 +10,7 @@ proofer: false
 links:
   email: jerome.goudet [at] unil.ch
   orcid: 0000-0002-5318-7601
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: https://scholar.google.com/citations?user=hO8lzo8AAAAJ&hl=en
   github: https://github.com/jgx65
 
 ### jekyll settings
