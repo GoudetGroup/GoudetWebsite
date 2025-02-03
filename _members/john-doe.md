@@ -1,10 +1,10 @@
 ---
-name: John Doe
-image: images/photo.jpg
+name: Alex Topaloudis
+image: images/alexT.jpg
 role: phd
 group: alum
 links:
   github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I work on genomics of barn owls (mostly from Switzerland). I work on identifying de-novo mutations and crossovers in genomic data of barn owl trios. I am also looking into the accuracy of imputation to retrieve accurate haplotypes for low-coverage sequences.
