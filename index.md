@@ -49,7 +49,7 @@ We are generally interested in population genomics and quantitative genetics! Ou
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/BAT.jpg"
   link="projects"
   title="Our Projects"
   flip=true
