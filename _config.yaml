@@ -9,9 +9,9 @@ proofer: false
 # site social media and other links
 links:
   email: jerome.goudet [at] unil.ch
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-5318-7601
   google-scholar: ETJoidYAAAAJ
-  github: GoudetGroup
+  github: https://github.com/jgx65
 
 ### jekyll settings
 
