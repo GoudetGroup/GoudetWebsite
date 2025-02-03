@@ -4,6 +4,7 @@ subtitle: Research group supervised by Jérôme Goudet, University of Lausanne
 description:
 header: images/background.jpg
 footer: images/background.jpg
+footer-dark: true
 proofer: false
 
 # site social media and other links
