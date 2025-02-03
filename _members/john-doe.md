@@ -1,6 +1,6 @@
 ---
 name: Alex Topaloudis
-image: images/alexT.jpg
+image: images/alexT.JPG
 role: phd
 group: alum
 links:
