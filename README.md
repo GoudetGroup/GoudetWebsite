@@ -5,6 +5,6 @@
 
   # GoudetGroup's Website
 
-  Visit **[goudetgroup.github.io/GoudetWebsite.github.io](https://goudetgroup.github.io/GoudetWebsite.github.io)** 🚀
+  Visit **[goudetgroup.github.io/GoudetWebsite](https://goudetgroup.github.io/GoudetWebsite)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
