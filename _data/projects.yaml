@@ -1,24 +1,24 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: 3k Owl
+  subtitle: Data set and analysis on around 3 thousand swiss barn owls
   group: featured
-  image: images/photo.jpg
+  image: images/3kowl.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
+- title: Owl museum samples
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/museum.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
+- title: Inbreeding Depression
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
@@ -28,7 +28,7 @@
     - resource
     - publication
 
-- title: Cool Web App
+- title: Methods in local adaptation
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
@@ -37,7 +37,7 @@
   tags:
     - software
 
-- title: Cool Web Server
+- title: Population genetics of bat parasites
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
