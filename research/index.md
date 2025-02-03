@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: BlaBla
 nav:
   order: 1
   tooltip: Published works
