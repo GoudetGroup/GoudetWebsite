@@ -1,6 +1,6 @@
 ---
 name: Clara Castex
-image: images/ClaraC.JPG
+image: images/ClaraC.jpg
 role: phd
 group: alum
 links:
