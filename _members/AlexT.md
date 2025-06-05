@@ -1,7 +1,7 @@
 ---
 name: Alexandros Topaloudis
 image: images/alexT.jpg
-role: phd
+role: mascot
 group: alum
 links:
   github: topalw
