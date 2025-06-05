@@ -1,6 +1,6 @@
 ---
 name: Marianne Bachmann Salvy
-image: images/team/MarianneB.jpeg
+image: images/MBS_pic.jpeg
 role: programmer
 group: alumn
 links:
