@@ -1,6 +1,6 @@
 ---
 name: João Souto
-image: images/picture_JSoutu.jpg
+image: images/picture_JSouto.jpg
 role: phd
 group: alum
 links:
