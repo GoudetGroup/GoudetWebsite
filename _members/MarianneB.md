@@ -1,7 +1,7 @@
 ---
 name: Marianne Bachmann Salvy
 image: images/MBS_pic.jpeg
-role: programmer
+role: bioinfo
 group: alum
 links:
   github: m-bachmann
