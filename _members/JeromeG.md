@@ -10,6 +10,7 @@ aliases:
   Jerome Goudet
 links:
   github: jgx65
+  email: jerome.goudet@unil.ch
 ---
 
 Small description of Jérôme' career
