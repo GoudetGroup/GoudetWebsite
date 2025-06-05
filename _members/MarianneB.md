@@ -2,7 +2,7 @@
 name: Marianne Bachmann Salvy
 image: images/MBS_pic.jpeg
 role: programmer
-group: alumn
+group: alum
 links:
   github: m-bachmann
 ---
