@@ -5,6 +5,7 @@ role: phd
 group: alum
 links:
   github: clca98
+  email: clara.castex@unil.ch
 ---
 
 I'm a PhD student working at the interface between field, lab and bioinformatics. I'm interested in understanding parasite dispersal processes to better understand the movements of their hosts. To do this, I'm focusing on the population genetics of ectoparasites and the infection dynamics of endoparasites of bats. More specifically, 
