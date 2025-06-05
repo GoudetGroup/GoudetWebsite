@@ -1,6 +1,6 @@
 ---
 name: Isa do O
-image: images/isaO.jpg
+image: images/doO_goudetgroup.jpeg
 role: phd
 group: alum
 links:
