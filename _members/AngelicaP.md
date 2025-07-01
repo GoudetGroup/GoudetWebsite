@@ -1,6 +1,6 @@
 ---
 name: Angélica Pulido  
-image: images/AngelicaP.jpg
+image: images/AngelicaP.JPG
 role: postdoc
 group: alum
 links:
