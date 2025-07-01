@@ -1,6 +1,6 @@
 ---
 name: Anne-Lyse Ducrest
-image: images/AnneLyseR.jpng
+image: images/AnneLyseR.png
 role: rf
 group: alum
 links:
