@@ -14,6 +14,14 @@ Our group’s interest is focused on understanding how the interplay of populati
 For more information on our latest work, take a look at our most recent publications:
 
 {%
+  include feature.html
+  image="images/GoudetGroup.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
+
+{%
   include button.html
   link="research"
   text="See our publications"
