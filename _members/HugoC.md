@@ -1,6 +1,6 @@
 --- 
 name: Hugo Corval
-image: images/HugoCTest.jpg
+image: images/HugoC.jpg
 role: phd
 group: alum
 links:
