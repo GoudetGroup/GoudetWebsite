@@ -5,13 +5,9 @@
 
 Our group’s interest is focused on understanding how the interplay of population structure, trait architecture and selection can be disentangled. To this end, we use different approaches, from theory and the development of statistical tools to field observations. The main biological models currently used are humans and the barn owl. On the theoretical side, we investigate the dynamics of multilocus genetic systems under the influence of selection, migration and drift, and develop comprehensive individual-based models as well as statistical methods to infer selection, mating systems and population structure.
 
-{%
-  include feature.html
-  image="images/GoudetGroup.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+<section class="group-photo-banner" style="margin: 2rem 0;">
+  <img src="images/GoudetGroup.jpg" alt="Group Photo" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.15);">
+</section>
 
 {% include section.html %}
 
