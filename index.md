@@ -78,7 +78,7 @@ To find out what we are each most interested in, find more:
 
 {%
   include feature.html
-  image="images/groupPic.jpg"
+  image="images/GoudetGroup.jpg"
   link="team"
   title="Our Team"
   text=text
