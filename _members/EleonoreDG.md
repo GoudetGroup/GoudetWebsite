@@ -1,5 +1,5 @@
 ---
-name: Eléonore De Guttry
+name: Eléonore de Guttry
 image: images/EleonoreDG.jpeg
 role: bioinfo
 group: alum
