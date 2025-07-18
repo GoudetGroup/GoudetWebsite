@@ -19,7 +19,7 @@ Feel free to contact us for any requests! Personal e-mail address are also avail
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.ch/maps"
+  link="https://maps.app.goo.gl/R1UDNiwYVwADB5iN7"
 %}
 
 <img src="/images/DEE_Logo.png" alt="DEE Logo" style="max-width: 150px;">
