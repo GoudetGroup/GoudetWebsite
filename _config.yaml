@@ -7,7 +7,6 @@ proofer: false
 
 # site social media and other links
 links:
-  orcid: 0000-0002-5318-7601
 
 ### jekyll settings
 
