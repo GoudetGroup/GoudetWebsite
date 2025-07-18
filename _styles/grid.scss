@@ -52,3 +52,21 @@ $one: 500px;
 .grid > :where(h1, h2, h3, h4, h5, h6) {
   display: none;
 }
+
+.grid[data-style="centered-pair"] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+
+  & > * {
+    width: 150px;
+    height: 150px;
+    aspect-ratio: 1 / 1;
+    background-color: #ccc; // optional
+  }
+
+  @media (max-width: $one) {
+    flex-direction: column;
+  }
+}
