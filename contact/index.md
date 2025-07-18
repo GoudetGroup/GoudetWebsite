@@ -22,4 +22,6 @@ Our lab is currently looking for XXX and YYY - Feel free to contact us for any r
   link="https://maps.app.goo.gl/K3GdYcG1RCYYkw2m8"
 %}
 
-![DEE Logo](/images/ClaraC.jpg)
+<section class="dee-logo" style="margin: 2rem 0;">
+  <img src="images/ClaraC.jpg" alt="DEE Logo" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.15);">
+</section>
