@@ -30,4 +30,4 @@ You can also find individual email addresses in the [Team](https://goudetgroup.g
   {% include figure.html image="images/UNIL_FBM.png" alt="UNIL Logo" link="https://www.unil.ch/fbm/fr/home.html" %}
 {% endcapture %}
 
-{% include grid.html style="square one-col" content=content %}
+{% include grid.html style="centered-pair" content=content %}
