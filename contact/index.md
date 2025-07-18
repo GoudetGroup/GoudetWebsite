@@ -25,12 +25,8 @@ Our lab is currently looking for XXX and YYY - Feel free to contact us for any r
 {% include section.html %}
 
 {% capture content %}
-  <a href="https://www.unil.ch/dee/en/home.html" target="_blank" rel="noopener">
-    {% include figure.html image="../images/DEE_Logo.png" alt="DEE Logo" %}
-  </a>
-  <a href="https://www.unil.ch/unil/fr/home.html" target="_blank" rel="noopener">
-    {% include figure.html image="../images/UNIL_Logo.png" alt="UNIL Logo" %}
-  </a>
+  {% include figure.html image="images/DEE_Logo.png" alt="DEE Logo" %}
+  {% include figure.html image="images/UNIL_Logo.png" alt="UNIL Logo" %}
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+{% include grid.html style="square two-cols" content=content %}
