@@ -1,7 +1,7 @@
 ---
 name: Jérôme Goudet
 image: images/JeromeG.jpg
-role: principal-investigator
+role: pi
 group: alum
 aliases:
   J Goudet
