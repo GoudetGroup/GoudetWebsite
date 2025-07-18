@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Welcome to our publication page. Here, you will find all our work that has been already published. For unpublished work, please, feel free to contact us using e-mail from the [Team](https://goudetgroup.github.io/GoudetWebsite/team/) section.
 
 {% include section.html %}
 
