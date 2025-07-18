@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is currently looking for XXX and YYY - Feel free to contact us for any requests! Personal e-mail address are also available in the [Team](https://goudetgroup.github.io/GoudetWebsite/team/) section.
+We are currently looking for **XXX** and **YYY**. If you're interested or have any inquiries, feel free to get in touch with us!
+You can also find individual email addresses in the [Team](https://goudetgroup.github.io/GoudetWebsite/team/) section.
 
 {%
   include button.html
@@ -26,7 +27,7 @@ Our lab is currently looking for XXX and YYY - Feel free to contact us for any r
 
 {% capture content %}
   {% include figure.html image="../images/DEE_Logo.png" alt="DEE Logo" link="https://www.unil.ch/dee/en/home.html" %}
-  {% include figure.html image="../images/UNIL_Logo.png" alt="UNIL Logo" link="[https://www.unil.ch](https://www.unil.ch/unil/fr/home.html)" %}
+  {% include figure.html image="../images/UNIL_Logo.png" alt="UNIL Logo" link="https://www.unil.ch/unil/fr/home.html" %}
 {% endcapture %}
 
 {% include grid.html style="square two-cols" content=content %}
