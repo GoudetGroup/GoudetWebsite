@@ -7,10 +7,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: jerome.goudet [at] unil.ch
   orcid: 0000-0002-5318-7601
-  google-scholar: https://scholar.google.com/citations?user=hO8lzo8AAAAJ&hl=en&oi=ao
-  github: https://github.com/jgx65
 
 ### jekyll settings
 
