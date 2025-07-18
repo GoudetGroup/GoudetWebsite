@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is currently looking for XXX and YYY - Feel free to contact us for any requests! Personal e-mail address are also available in the [Team](team) section.
+Our lab is currently looking for XXX and YYY - Feel free to contact us for any requests! Personal e-mail address are also available in the [Team](https://goudetgroup.github.io/GoudetWebsite/team/) section.
 
 {%
   include button.html
