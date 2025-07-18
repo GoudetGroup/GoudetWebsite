@@ -22,6 +22,7 @@ Our lab is currently looking for XXX and YYY - Feel free to contact us for any r
   link="https://maps.app.goo.gl/K3GdYcG1RCYYkw2m8"
 %}
 
-<section class="dee-logo" style="margin: 2rem 0;">
-<img src="../images/DEE_Logo.png" alt="DEE Logo" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.15);">
+<section style="display: flex; gap: 2rem; margin: 2rem 0;">
+  <img src="../images/DEE_Logo.png" alt="DEE Logo" style="flex: 1; height: auto; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.15);">
+  <img src="../images/UNIL_Logo.png" alt="UNIL Logo" style="flex: 1; height: auto; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.15);">
 </section>
