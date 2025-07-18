@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Welcome to our publication page. Here, you will find all our work that has been already published. For unpublished work, please, feel free to contact us using e-mail from the [Team](https://goudetgroup.github.io/GoudetWebsite/team/) section.
+Welcome to our Publications page. Below, you'll find a list of our published work. If you're interested in any of our ongoing or unpublished research, please feel free to reach out via the contact information provided in the [Team](https://goudetgroup.github.io/GoudetWebsite/team/) section.
 
 {% include section.html %}
 
