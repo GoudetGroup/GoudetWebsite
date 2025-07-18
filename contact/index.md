@@ -25,8 +25,8 @@ Our lab is currently looking for XXX and YYY - Feel free to contact us for any r
 {% include section.html %}
 
 {% capture content %}
-  {% include figure.html image="images/DEE_Logo.png" alt="DEE Logo" %}
-  {% include figure.html image="images/UNIL_Logo.png" alt="UNIL Logo" %}
+  {% include figure.html image="../images/DEE_Logo.png" alt="DEE Logo" %}
+  {% include figure.html image="../images/UNIL_Logo.png" alt="UNIL Logo" %}
 {% endcapture %}
 
 {% include grid.html style="square two-cols" content=content %}
