@@ -22,4 +22,4 @@ Our lab is currently looking for XXX and YYY - Feel free to contact us for any r
   link="https://maps.app.goo.gl/K3GdYcG1RCYYkw2m8"
 %}
 
-![DEE Logo](/images/DEE_Logo.png)
+![DEE Logo](/images/ClaraC.jpg)
