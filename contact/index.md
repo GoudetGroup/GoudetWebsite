@@ -27,7 +27,7 @@ You can also find individual email addresses in the [Team](https://goudetgroup.g
 
 {% capture content %}
   {% include figure.html image="images/DEE_Logo.png" alt="DEE Logo" link="https://www.unil.ch/dee/en/home.html" %}
-  {% include figure.html image="images/UNIL_Logo.png" alt="UNIL Logo" link="https://www.unil.ch/unil/fr/home.html" %}
+  {% include figure.html image="images/UNIL_FBM.png" alt="UNIL Logo" link="https://www.unil.ch/fbm/fr/home.html" %}
 {% endcapture %}
 
 {% include grid.html style="square two-cols" content=content %}
