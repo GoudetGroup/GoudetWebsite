@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Feel free to contact us for any requests! Personal e-mail address are also available in the Team section.
+Feel free to contact us for any requests! Personal e-mail address are also available in the [Team](team) section.
 
 {%
   include button.html
@@ -22,4 +22,4 @@ Feel free to contact us for any requests! Personal e-mail address are also avail
   link="https://maps.app.goo.gl/K3GdYcG1RCYYkw2m8"
 %}
 
-<img src="/images/DEE_Logo.png" alt="DEE Logo" style="max-width: 150px;">
+![DEE Logo](/images/DEE_Logo.png)
