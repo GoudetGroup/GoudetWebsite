@@ -42,4 +42,22 @@
   display: none;
 }
 
+.grid[data-style=centered-pair] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.grid[data-style=centered-pair] > * {
+  width: 150px;
+  height: 150px;
+  aspect-ratio: 1/1;
+  background-color: #ccc;
+}
+@media (max-width: 500px) {
+  .grid[data-style=centered-pair] {
+    flex-direction: column;
+  }
+}
+
 /*# sourceMappingURL=grid.css.map */
