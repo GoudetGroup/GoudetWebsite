@@ -22,11 +22,15 @@ Our lab is currently looking for XXX and YYY - Feel free to contact us for any r
   link="https://maps.app.goo.gl/K3GdYcG1RCYYkw2m8"
 %}
 
-<section style="display: flex; gap: 2rem; margin: 2rem 0;">
-  <div style="flex: 1;">
-    <img src="../images/DEE_Logo.png" alt="DEE Logo" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.15);">
-  </div>
-  <div style="flex: 1;">
-    <img src="../images/UNIL_Logo.png" alt="UNIL Logo" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.15);">
-  </div>
-</section>
+{% include section.html %}
+
+{% capture content %}
+  <a href="https://www.unil.ch/dee/en/home.html" target="_blank" rel="noopener">
+    {% include figure.html image="../images/DEE_Logo.png" alt="DEE Logo" %}
+  </a>
+  <a href="https://www.unil.ch/unil/fr/home.html" target="_blank" rel="noopener">
+    {% include figure.html image="../images/UNIL_Logo.png" alt="UNIL Logo" %}
+  </a>
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
