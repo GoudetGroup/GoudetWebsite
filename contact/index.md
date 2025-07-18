@@ -9,6 +9,8 @@ nav:
 
 Feel free to contact us for any requests! Personal e-mail address are also available in the Team section.
 
+<img src="/images/DEE_Logo.png" alt="DEE Logo" style="max-width: 200px;">
+
 {%
   include button.html
   type="email"
