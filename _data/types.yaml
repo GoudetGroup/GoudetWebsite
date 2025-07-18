@@ -2,7 +2,7 @@
 
 # team member roles
 
-principal-investigator:
+pi:
   icon: fa-solid fa-chalkboard-user
   description: Principal Investigator
 
