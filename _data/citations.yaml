@@ -1,191 +1,1688 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1101/2025.02.23.639751
+  title: A method for identifying spatially divergent selection in structured populations
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Isabela do O
+  - Oscar Gaggiotti
+  - Pierre de Villemereuil
+  - Jerome Goudet
   publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2025-02-24'
+  link: https://doi.org/g9tmrb
+  orcid: 0000-0002-5318-7601
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1093/genetics/iyae190
+  title: The recombination landscape of the barn owl, from families to populations
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Alexandros Topaloudis
+  - Tristan Cumer
+  - "El\xE9onore Lavanchy"
+  - Anne-Lyse Ducrest
+  - Celine Simon
+  - Ana Paula Machado
+  - Nika Paposhvili
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: GENETICS
+  date: '2024-11-15'
+  link: https://doi.org/g9tmrc
+  orcid: 0000-0002-5318-7601
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1038/s41437-024-00731-z
+  title: "Estimation of Jacquard\u2019s genetic identity coefficients with bi-allelic\
+    \ variants by constrained least-squares"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Jan Graffelman
+  - Bruce S. Weir
+  - "J\xE9r\xF4me Goudet"
+  publisher: Heredity
+  date: '2024-11-07'
+  link: https://doi.org/g9tmrd
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41437-024-00728-8
+  title: 'Too big to purge: persistence of deleterious Mutations in Island populations
+    of the European Barn Owl (Tyto alba)'
+  authors:
+  - "El\xE9onore Lavanchy"
+  - Tristan Cumer
+  - Alexandros Topaloudis
+  - Anne-Lyse Ducrest
+  - "C\xE9line Simon"
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: Heredity
+  date: '2024-10-13'
+  link: https://doi.org/g9tmrf
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-4324586/v1
+  title: 'Too big to purge: persistence of deleterious mutations in island populations
+    of the European barn owl (Tyto alba)'
+  authors:
+  - "J\xE9r\xF4me Goudet"
+  - "El\xE9onore Lavanchy"
+  - Tristan Cumer
+  - Alexandros Topaloudis
+  - Anne-Lyse Ducrest
+  - "C\xE9line Simon"
+  - Alexandre Roulin
+  publisher: Springer Science and Business Media LLC
+  date: '2024-05-20'
+  link: https://doi.org/g9tmrg
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2315780121
+  title: Detecting inbreeding depression in structured populations
+  authors:
+  - "El\xE9onore Lavanchy"
+  - Bruce S. Weir
+  - "J\xE9r\xF4me Goudet"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-04-30'
+  link: https://doi.org/g9tmrh
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.04.11.589103
+  title: The recombination landscape of the barn owl, from families to populations
+  authors:
+  - Alexandros Topaloudis
+  - Eleonore Lavanchy
+  - Tristan Cumer
+  - Anne-Lyse Ducrest
+  - Celine Simon
+  - Ana Paula Machado
+  - Nika Paposhvili
+  - Alexandre Roulin
+  - Jerome Goudet
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2024-04-16'
+  link: https://doi.org/g9tmrj
+  orcid: 0000-0002-5318-7601
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2024.03.25.586682
+  title: "Estimation of Jacquard\u2019s genetic identity coefficients with bi-allelic\
+    \ variants by constrained least-squares"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Jan Graffelman
+  - Bruce S. Weir
+  - "J\xE9r\xF4me Goudet"
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2024-03-29'
+  link: https://doi.org/g9tmrk
+  orcid: 0000-0002-5318-7601
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1371/journal.pone.0295595
+  title: "Characterization of the diversity of barn owl\u2019s mitochondrial genome\
+    \ reveals high copy number variations in the control region"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Marcelo J. Serrano
+  - "J\xE9r\xF4me Goudet"
+  - Tristan Cumer
+  publisher: PLOS ONE
+  date: '2024-01-25'
+  link: https://doi.org/g9tmrm
+  orcid: 0000-0002-5318-7601
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1098/rspb.2023.1995
+  title: "The genomic architecture of continuous plumage colour variation in the European\
+    \ barn owl (\n            <i>Tyto alba</i>\n            )"
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Tristan Cumer
+  - Ana Paula Machado
+  - Luis M. San-Jose
+  - Anne-Lyse Ducrest
+  - "C\xE9line Simon"
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2024-01-10'
+  link: https://doi.org/g9tmrn
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1010871
+  title: An allele-sharing, moment-based estimator of global, population-specific
+    and population-pair FST under a general model of population structure
+  authors:
+  - Jerome Goudet
+  - Bruce S. Weir
+  publisher: PLOS Genetics
+  date: '2023-11-27'
+  link: https://doi.org/g9tmrp
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.08.14.552950
+  title: Detecting inbreeding depression in structured populations
+  authors:
+  - "El\xE9onore Lavanchy"
+  - Bruce S. Weir
+  - "J\xE9r\xF4me Goudet"
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2023-08-14'
+  link: https://doi.org/g9tmrq
+  orcid: 0000-0002-5318-7601
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1101/2023.07.18.549618
+  title: An allele-sharing, moment-based estimator of global, population specific
+    and population pairs<i>F</i><sub><i>ST</i></sub>under a general model of population
+    structure
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "J\xE9r\xF4me Goudet"
+  - Bruce S. Weir
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-07-19'
+  link: https://doi.org/g9tmrr
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.04.03.535036
+  title: The genomic architecture of a continuous color polymorphism in the European
+    barn owl (<i>Tyto alba</i>)
+  authors:
+  - Tristan Cumer
+  - Ana Paula Machado
+  - Luis M. San-Jose
+  - Anne-Lyse Ducrest
+  - "C\xE9line Simon"
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-04-04'
+  link: https://doi.org/g5mqg4
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.03.17.533108
+  title: 'Genetically diverse populations hold the keys to climatic adaptation: a
+    lesson from a cosmopolitan raptor'
+  authors:
+  - Hugo Corval
+  - Tristan Cumer
+  - Alexandros Topaloudis
+  - Flavien Collart
+  - Antoine Guisan
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-03-17'
+  link: https://doi.org/g9tmrs
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-023-27988-4
+  title: 'Inferring genetic structure when there is little: population genetics versus
+    genomics of the threatened bat Miniopterus schreibersii across Europe'
+  authors:
+  - Christophe Dufresnes
+  - Ludovic Dutoit
+  - Alan Brelsford
+  - Fardo Goldstein-Witsenburg
+  - "Laura Cl\xE9ment"
+  - "Adria L\xF3pez-Baucells"
+  - Jorge Palmeirim
+  - "Igor Pavlini\u0107"
+  - Dino Scaravelli
+  - "Martin \u0160ev\u010D\xEDk"
+  - Philippe Christe
+  - "J\xE9r\xF4me Goudet"
+  publisher: Scientific Reports
+  date: '2023-01-27'
+  link: https://doi.org/grqghx
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41437-022-00562-w
+  title: Genomic basis of insularity and ecological divergence in barn owls (Tyto
+    alba) of the Canary Islands
+  authors:
+  - Tristan Cumer
+  - Ana Paula Machado
+  - Felipe Siverio
+  - Sidi Imad Cherkaoui
+  - "In\xEAs Roque"
+  - "Rui Louren\xE7o"
+  - Motti Charter
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: Heredity
+  date: '2022-09-29'
+  link: https://doi.org/g9tmrt
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.08.26.505374
+  title: Effect of reduced genomic representation on using runs of homozygosity for
+    inbreeding characterization
+  authors:
+  - "El\xE9onore Lavanchy"
+  - "J\xE9r\xF4me Goudet"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-08-26'
+  link: https://doi.org/gszmdt
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rstb.2020.0420
+  title: 'How HLA diversity is apportioned: influence of selection and relevance to
+    transplantation'
+  authors:
+  - "Andr\xE9 Silva Mar\xF3stica"
+  - Kelly Nunes
+  - Erick C. Castelli
+  - Nayane S. B. Silva
+  - Bruce S. Weir
+  - "J\xE9r\xF4me Goudet"
+  - Diogo Meyer
+  publisher: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  date: '2022-04-18'
+  link: https://doi.org/gr2r3g
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1365-2745.13528
+  title: Common garden experiments to study local adaptation need to account for population
+    structure
+  authors:
+  - Pierre de Villemereuil
+  - Oscar E. Gaggiotti
+  - "J\xE9r\xF4me Goudet"
+  publisher: Journal of Ecology
+  date: '2020-11-12'
+  link: https://doi.org/ghg57p
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msab343
+  title: Landscape and Climatic Variations Shaped Secondary Contacts amid Barn Owls
+    of the Western Palearctic
+  authors:
+  - Tristan Cumer
+  - Ana Paula Machado
+  - Guillaume Dumont
+  - Vasileios Bontzorlos
+  - Renato Ceccherelli
+  - Motti Charter
+  - Klaus Dichmann
+  - Nicolaos Kassinis
+  - "Rui Louren\xE7o"
+  - Francesca Manzia
+  - Hans-Dieter Martens
+  - "Laure Pr\xE9vost"
+  - Marko Rakovic
+  - "In\xEAs Roque"
+  - Felipe Siverio
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: Molecular Biology and Evolution
+  date: '2021-12-06'
+  link: https://doi.org/g9tmrv
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41437-021-00471-4
+  title: Rank-invariant estimation of inbreeding coefficients
+  authors:
+  - Qian S. Zhang
+  - "J\xE9r\xF4me Goudet"
+  - Bruce S. Weir
+  publisher: Heredity
+  date: '2021-11-25'
+  link: https://doi.org/gpfzbp
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.16250
+  title: "Unexpected post\u2010glacial colonisation route explains the white colour\
+    \ of barn owls (<i>Tyto alba</i>) from the British Isles"
+  authors:
+  - Ana Paula Machado
+  - Tristan Cumer
+  - Christian Iseli
+  - Emmanuel Beaudoing
+  - "Anne\u2010Lyse Ducrest"
+  - Melanie Dupasquier
+  - Nicolas Guex
+  - Klaus Dichmann
+  - "Rui Louren\xE7o"
+  - John Lusby
+  - "Hans\u2010Dieter Martens"
+  - "Laure Pr\xE9vost"
+  - David Ramsden
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: Molecular Ecology
+  date: '2021-11-06'
+  link: https://doi.org/g5mg
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.12.24.473866
+  title: Genomic bases of insularity and ecological divergence in barn owls (<i>Tyto
+    alba</i>) of the Canary Islands
+  authors:
+  - Tristan Cumer
+  - Ana Paula Machado
+  - Felipe Siverio
+  - Sidi Imad Cherkaoui
+  - "In\xEAs Roque"
+  - "Rui Louren\xE7o"
+  - Motti Charter
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-12-24'
+  link: https://doi.org/g9tmrw
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.16324
+  title: Genomic consequences of colonisation, migration and genetic drift in barn
+    owl insular populations of the eastern Mediterranean
+  authors:
+  - Ana Paula Machado
+  - Alexandros Topaloudis
+  - Tristan Cumer
+  - "El\xE9onore Lavanchy"
+  - Vasileios Bontzorlos
+  - Renato Ceccherelli
+  - Motti Charter
+  - Nicolaos Kassinis
+  - Petros Lymberakis
+  - Francesca Manzia
+  - "Anne\u2010Lyse Ducrest"
+  - "M\xE9lanie Dupasquier"
+  - Nicolas Guex
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: Molecular Ecology
+  date: '2021-12-23'
+  link: https://doi.org/gsxwmp
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/gcb.15330
+  title: "Greater topoclimatic control of above\u2010 versus below\u2010ground communities"
+  authors:
+  - Heidi K. Mod
+  - Daniel Scherrer
+  - Valeria Di Cola
+  - Olivier Broennimann
+  - Quentin Blandenier
+  - Frank T. Breiner
+  - Aline Buri
+  - "J\xE9r\xF4me Goudet"
+  - Nicolas Guex
+  - Enrique Lara
+  - Edward A. D. Mitchell
+  - "H\xE9l\xE8ne Niculita\u2010Hirzel"
+  - Marco Pagni
+  - "Lo\xEFc Pellissier"
+  - "Eric Pinto\u2010Figueroa"
+  - Ian R. Sanders
+  - Benedikt R. Schmidt
+  - Christophe V. W. Seppey
+  - David Singer
+  - Sylvain Ursenbacher
+  - Erika Yashiro
+  - Jan R. van der Meer
+  - Antoine Guisan
+  publisher: Global Change Biology
+  date: '2020-09-27'
+  link: https://doi.org/gn496k
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ece3.5991
+  title: New genome assembly of the barn owl (<i>Tyto alba alba</i>)
+  authors:
+  - "Anne\u2010Lyse Ducrest"
+  - Samuel Neuenschwander
+  - "Emanuel Schmid\u2010Siegert"
+  - Marco Pagni
+  - "Cl\xE9ment Train"
+  - David Dylus
+  - Yannis Nevers
+  - Alex Warwick Vesztrocy
+  - "Luis M. San\u2010Jose"
+  - "M\xE9lanie Dupasquier"
+  - Christophe Dessimoz
+  - Ioannis Xenarios
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: Ecology and Evolution
+  date: '2020-02-19'
+  link: https://doi.org/g9tmrx
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41437-018-0115-9
+  title: Female-biased dispersal and non-random gene flow of MC1R variants do not
+    result in a migration load in barn owls
+  authors:
+  - "Val\xE9rie Ducret"
+  - Michael Schaub
+  - "J\xE9r\xF4me Goudet"
+  - Alexandre Roulin
+  publisher: Heredity
+  date: '2018-07-13'
+  link: https://doi.org/g9tmrz
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/bty737
+  title: 'QuantiNemo 2: a Swiss knife to simulate complex demographic and genetic
+    scenarios, forward and backward in time'
+  authors:
+  - Samuel Neuenschwander
+  - "Fr\xE9d\xE9ric Michaud"
+  - "J\xE9r\xF4me Goudet"
+  publisher: Bioinformatics
+  date: '2018-08-23'
+  link: https://doi.org/g9tmr2
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.14833
+  title: How to estimate kinship
+  authors:
+  - "J\xE9r\xF4me Goudet"
+  - Tomas Kay
+  - Bruce S. Weir
+  publisher: Molecular Ecology
+  date: '2018-09-07'
+  link: https://doi.org/gd22c6
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/g3.118.200367
+  title: 'The Effect of Balancing Selection on Population Differentiation: A Study
+    with HLA Genes'
+  authors:
+  - "D\xE9bora Y C Brandt"
+  - "J\xF4natas C\xE9sar"
+  - "J\xE9r\xF4me Goudet"
+  - Diogo Meyer
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2018-08-01'
+  link: https://doi.org/gdzgs2
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jeb.13235
+  title: "Sex\u2010antagonistic genes, <scp>XY</scp> recombination and feminized Y\
+    \ chromosomes"
+  authors:
+  - E. Cavoto
+  - S. Neuenschwander
+  - J. Goudet
+  - N. Perrin
+  publisher: Journal of Evolutionary Biology
+  date: '2018-01-23'
+  link: https://doi.org/gmmtdr
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10530-017-1649-0
+  title: A genetic reconstruction of the invasion of the calanoid copepod Pseudodiaptomus
+    inopinus across the North American Pacific Coast
+  authors:
+  - Eric Dexter
+  - Stephen M. Bollens
+  - Jeffery Cordell
+  - Ho Young Soh
+  - Gretchen Rollwagen-Bollens
+  - Susanne P. Pfeifer
+  - "J\xE9r\xF4me Goudet"
+  - "S\xE9verine Vuilleumier"
+  publisher: Biological Invasions
+  date: '2017-12-12'
+  link: https://doi.org/gdnrds
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0192460
+  title: Complex genetic patterns in human arise from a simple range-expansion model
+    over continental landmasses
+  authors:
+  - Ricardo Kanitz
+  - Elsa G. Guillot
+  - Sylvain Antoniazza
+  - Samuel Neuenschwander
+  - "J\xE9r\xF4me Goudet"
+  publisher: PLOS ONE
+  date: '2018-02-21'
+  link: https://doi.org/gc2rbq
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jbi.13219
+  title: The Rocky Mountains as a dispersal barrier between barn owl (<i>Tyto alba</i>)
+    populations in North America
+  authors:
+  - Ana Paula Machado
+  - "Laura Cl\xE9ment"
+  - Vera Uva
+  - "J\xE9r\xF4me Goudet"
+  - Alexandre Roulin
+  publisher: Journal of Biogeography
+  date: '2018-03-30'
+  link: https://doi.org/gc7qv2
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/genetics.116.198424
+  title: A Unified Characterization of Population Structure and Relatedness
+  authors:
+  - Bruce S Weir
+  - "J\xE9r\xF4me Goudet"
+  publisher: Genetics
+  date: '2017-08-01'
+  link: https://doi.org/gst6xd
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0170522
+  title: Broad-Scale Genetic Diversity of Cannabis for Forensic Applications
+  authors:
+  - Christophe Dufresnes
+  - Catherine Jan
+  - Friederike Bienert
+  - "J\xE9r\xF4me Goudet"
+  - Luca Fumagalli
+  publisher: PLOS ONE
+  date: '2017-01-20'
+  link: https://doi.org/f9nbgc
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1755-0998.12577
+  title: Linking genomics and population genetics with R
+  authors:
+  - Emmanuel Paradis
+  - Thierry Gosselin
+  - "J\xE9r\xF4me Goudet"
+  - Thibaut Jombart
+  - Klaus Schliep
+  publisher: Molecular Ecology Resources
+  date: '2016-08-29'
+  link: https://doi.org/f9g54h
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/nph.14403
+  title: "Phosphorus acquisition efficiency in arbuscular mycorrhizal maize is correlated\
+    \ with the abundance of root\u2010external hyphae and the accumulation of transcripts\
+    \ encoding PHT1 phosphate transporters"
+  authors:
+  - Ruairidh J. H. Sawers
+  - Simon F. Svane
+  - Clement Quan
+  - "Mette Gr\xF8nlund"
+  - Barbara Wozniak
+  - "Mesfin\u2010Nigussie Gebreselassie"
+  - "Eli\xE9cer Gonz\xE1lez\u2010Mu\xF1oz"
+  - "Ricardo A. Ch\xE1vez Montes"
+  - Ivan Baxter
+  - Jerome Goudet
+  - Iver Jakobsen
+  - Uta Paszkowski
+  publisher: New Phytologist
+  date: '2017-01-18'
+  link: https://doi.org/f9m3n6
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1755-0998.12567
+  title: '<i>apex</i>: phylogenetics with multiple genes'
+  authors:
+  - Thibaut Jombart
+  - Frederick Archer
+  - Klaus Schliep
+  - Zhian Kamvar
+  - Rebecca Harris
+  - Emmanuel Paradis
+  - "J\xE9rome Goudet"
+  - Hilmar Lapp
+  publisher: Molecular Ecology Resources
+  date: '2016-08-12'
+  link: https://doi.org/f9hdgv
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msw016
+  title: Genomic Evidence for Adaptive Inversion Clines in<i>Drosophila melanogaster</i>
+  authors:
+  - Martin Kapun
+  - Daniel K. Fabian
+  - "J\xE9r\xF4me Goudet"
+  - Thomas Flatt
+  publisher: Molecular Biology and Evolution
+  date: '2016-01-21'
+  link: https://doi.org/f8kbbv
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fsigen.2016.03.004
+  title: 'Population-specific F values for forensic STR markers: A worldwide survey'
+  authors:
+  - John Buckleton
+  - James Curran
+  - "J\xE9r\xF4me Goudet"
+  - Duncan Taylor
+  - Alexandre Thiery
+  - B.S. Weir
+  publisher: 'Forensic Science International: Genetics'
+  date: '2016-07-01'
+  link: https://doi.org/g9tmr3
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7717/peerj.1910
+  title: Reconstructing the demographic history of divergence between European river
+    and brook lampreys using approximate Bayesian computations
+  authors:
+  - Quentin Rougemont
+  - Camille Roux
+  - Samuel Neuenschwander
+  - Jerome Goudet
+  - Sophie Launey
+  - Guillaume Evanno
+  publisher: PeerJ
+  date: '2016-04-07'
+  link: https://doi.org/g9tmr4
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.13781
+  title: "Sex\u2010specific allelic transmission bias suggests sexual conflict at\
+    \ <i><scp>MC</scp>1R</i>"
+  authors:
+  - "Val\xE9rie Ducret"
+  - Arnaud Gaigher
+  - "C\xE9line Simon"
+  - "J\xE9r\xF4me Goudet"
+  - Alexandre Roulin
+  publisher: Molecular Ecology
+  date: '2016-08-26'
+  link: https://doi.org/f847t3
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/evo.12824
+  title: The genetic basis of color-related local adaptation in a ring-like colonization
+    around the Mediterranean
+  authors:
+  - Reto Burri
+  - Sylvain Antoniazza
+  - Arnaud Gaigher
+  - Anne-Lyse Ducrest
+  - "C\xE9line Simon"
+  - Luca Fumagalli
+  - "J\xE9r\xF4me Goudet"
+  - Alexandre Roulin
+  publisher: Evolution
+  date: '2015-12-15'
+  link: https://doi.org/f3pjp4
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.13071
+  title: 'How a haemosporidian parasite of bats gets around: the genetic structure
+    of a parasite, vector and host compared'
+  authors:
+  - F. Witsenburg
+  - "L. Cl\xE9ment"
+  - "A. L\xF3pez\u2010Baucells"
+  - J. Palmeirim
+  - "I. Pavlini\u0107"
+  - D. Scaravelli
+  - "M. \u0160ev\u010D\xEDk"
+  - L. Dutoit
+  - N. Salamin
+  - J. Goudet
+  - P. Christe
+  publisher: Molecular Ecology
+  date: '2015-02-01'
+  link: https://doi.org/f3n8gw
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/g3.114.015784
+  title: Mapping Bias Overestimates Reference Allele Frequencies at the <i>HLA</i>
+    Genes in the 1000 Genomes Project Phase I Data
+  authors:
+  - "D\xE9bora Y C Brandt"
+  - Vitor R C Aguiar
+  - "B\xE1rbara D Bitarello"
+  - Kelly Nunes
+  - "J\xE9r\xF4me Goudet"
+  - Diogo Meyer
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2015-05-01'
+  link: https://doi.org/f7kxc4
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.12957
+  title: 'Natural selection in a postglacial range expansion: the case of the colour
+    cline in the European barn owl'
+  authors:
+  - Sylvain Antoniazza
+  - Ricardo Kanitz
+  - Samuel Neuenschwander
+  - Reto Burri
+  - Arnaud Gaigher
+  - Alexandre Roulin
+  - "J\xE9r\xF4me Goudet"
+  publisher: Molecular Ecology
+  date: '2014-10-30'
+  link: https://doi.org/f2437j
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tpb.2014.02.003
+  title: 'On the transition of genetic differentiation from isolation to panmixia:
+    What we can learn from and'
+  authors:
+  - Nicolas Alcala
+  - "J\xE9r\xF4me Goudet"
+  - "S\xE9verine Vuilleumier"
+  publisher: Theoretical Population Biology
+  date: '2014-05-01'
+  link: https://doi.org/f5wvtb
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.12854
+  title: Soil fungal communities of grasslands are environmentally structured at a
+    regional scale in the <scp>A</scp>lps
+  authors:
+  - L. Pellissier
+  - "H. Niculita\u2010Hirzel"
+  - A. Dubuis
+  - M. Pagni
+  - N. Guex
+  - C. Ndiribe
+  - N. Salamin
+  - I. Xenarios
+  - J. Goudet
+  - I. R. Sanders
+  - A. Guisan
+  publisher: Molecular Ecology
+  date: '2014-08-01'
+  link: https://doi.org/f6f8vg
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.12918
+  title: 'Wheat alleles introgress into selfing wild relatives: empirical estimates
+    from approximate Bayesian computation in <i>Aegilops triuncialis</i>'
+  authors:
+  - Mila Pajkovic
+  - Sylvain Lappe
+  - Rachel Barman
+  - Christian Parisod
+  - Samuel Neuenschwander
+  - Jerome Goudet
+  - Nadir Alvarez
+  - Roberto Guadagnuolo
+  - "Fran\xE7ois Felber"
+  - Nils Arrigo
+  publisher: Molecular Ecology
+  date: '2014-10-01'
+  link: https://doi.org/f6m96j
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btt149
+  title: "Density-based hierarchical clustering of pyro-sequences on a large scale\u2014\
+    the case of fungal ITS1"
+  authors:
+  - Marco Pagni
+  - "H\xE9l\xE8ne Niculita-Hirzel"
+  - "Lo\xEFc Pellissier"
+  - Anne Dubuis
+  - Ioannis Xenarios
+  - Antoine Guisan
+  - Ian R. Sanders
+  - "J\xE9r\xF4me Goudet"
+  - Nicolas Guex
+  publisher: Bioinformatics
+  date: '2013-03-28'
+  link: https://doi.org/f4zfbm
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/genetics.112.147785
+  title: Peak and Persistent Excess of Genetic Diversity Following an Abrupt Migration
+    Increase
+  authors:
+  - Nicolas Alcala
+  - Daniela Streit
+  - "J\xE9r\xF4me Goudet"
+  - "S\xE9verine Vuilleumier"
+  publisher: Genetics
+  date: '2013-03-01'
+  link: https://doi.org/f4n895
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fpls.2013.00500
+  title: 'Plant species distributions along environmental gradients: do belowground
+    interactions with fungi matter?'
+  authors:
+  - "Lo\xEFc Pellissier"
+  - Eric Pinto-Figueroa
+  - "H\xE9l\xE8ne Niculita-Hirzel"
+  - Mari Moora
+  - Lucas Villard
+  - "J\xE9rome Goudet"
+  - Nicolas Guex
+  - Marco Pagni
+  - Ioannis Xenarios
+  - Ian Sanders
+  - Antoine Guisan
+  publisher: Frontiers in Plant Science
+  date: '2013-01-01'
+  link: https://doi.org/g786jv
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1558-5646.2012.01590.x
+  title: 'GENETIC BASIS OF ADAPTATION IN ARABIDOPSIS THALIANA: LOCAL ADAPTATION AT
+    THE SEED DORMANCY QTL DOG1'
+  authors:
+  - Ilkka Kronholm
+  - "F. Xavier Pic\xF3"
+  - Carlos Alonso-Blanco
+  - "J\xE9r\xF4me Goudet"
+  - Juliette de Meaux
+  publisher: Evolution
+  date: '2012-02-28'
+  link: https://doi.org/fx8psq
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1420-9101.2011.02407.x
+  title: Local adaptation and matching habitat choice in female barn owls with respect
+    to melanic coloration
+  authors:
+  - A. N. DREISS
+  - S. ANTONIAZZA
+  - R. BURRI
+  - L. FUMAGALLI
+  - C. SONNAY
+  - C. FREY
+  - J. GOUDET
+  - A. ROULIN
+  publisher: Journal of Evolutionary Biology
+  date: '2011-11-09'
+  link: https://doi.org/czsbkd
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294X.2012.05533.x
+  title: 'Plants and tortoises: mutations in the <i>Arabidopsis</i> jasmonate pathway
+    increase feeding in a vertebrate herbivore'
+  authors:
+  - ALIA MAFLI
+  - "J\xC9R\xD4ME GOUDET"
+  - EDWARD E. FARMER
+  publisher: Molecular Ecology
+  date: '2012-03-20'
+  link: https://doi.org/f3xns5
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294X.2011.05164.x
+  title: Ecology and life history affect different aspects of the population structure
+    of 27 high-alpine plants
+  authors:
+  - PATRICK G. MEIRMANS
+  - JEROME GOUDET
+  - OSCAR E. GAGGIOTTI
+  publisher: Molecular Ecology
+  date: '2011-06-20'
+  link: https://doi.org/bkqszd
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/hdy.2010.38
+  title: Fine-scale spatial genetic structure and gene dispersal in Silene latifolia
+  authors:
+  - M Barluenga
+  - F Austerlitz
+  - J A Elzinga
+  - S Teixeira
+  - J Goudet
+  - G Bernasconi
+  publisher: Heredity
+  date: '2010-04-14'
+  link: https://doi.org/d8whbb
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.1198734
+  title: "Global Invasion History of the Fire Ant\n            <i>Solenopsis invicta</i>"
+  authors:
+  - Marina S. Ascunce
+  - Chin-Cheng Yang
+  - Jane Oakey
+  - Luis Calcaterra
+  - Wen-Jer Wu
+  - Cheng-Jen Shih
+  - "J\xE9r\xF4me Goudet"
+  - Kenneth G. Ross
+  - DeWayne Shoemaker
+  publisher: Science
+  date: '2011-02-25'
+  link: https://doi.org/d3qkzj
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tpb.2010.08.004
+  title: 'Evolution in heterogeneous populations: From migration models to fixation
+    probabilities'
+  authors:
+  - S. Vuilleumier
+  - J. Goudet
+  - N. Perrin
+  publisher: Theoretical Population Biology
+  date: '2010-12-01'
+  link: https://doi.org/ffkhhp
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2699.2010.02282.x
+  title: Genetic isolation of insular populations of the Maghrebian bat, <i>Myotis
+    punicus</i>, in the Mediterranean Basin
+  authors:
+  - "Fran\xE7ois Biollaz"
+  - Nadia Bruyndonckx
+  - "Gr\xE9gory Beuneux"
+  - Mauro Mucedda
+  - "J\xE9r\xF4me Goudet"
+  - Philippe Christe
+  publisher: Journal of Biogeography
+  date: '2010-07-15'
+  link: https://doi.org/chm5kz
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1558-5646.2010.00969.x
+  title: LOCAL ADAPTATION MAINTAINS CLINAL VARIATION IN MELANIN-BASED COLORATION OF
+    EUROPEAN BARN OWLS (<i>TYTO ALBA</i>)
+  authors:
+  - Sylvain Antoniazza
+  - Reto Burri
+  - Luca Fumagalli
+  - "J\xE9r\xF4me Goudet"
+  - Alexandre Roulin
+  publisher: Evolution
+  date: '2010-03-01'
+  link: https://doi.org/d8tzg9
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294X.2010.04699.x
+  title: Mites as biological tags of their hosts
+  authors:
+  - NADIA BRUYNDONCKX
+  - "FRAN\xC7OIS BIOLLAZ"
+  - SYLVAIN DUBEY
+  - "J\xC9R\xD4ME GOUDET"
+  - PHILIPPE CHRISTE
+  publisher: Molecular Ecology
+  date: '2010-06-29'
+  link: https://doi.org/dqx9sq
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1558-5646.2009.00760.x
+  title: CORRELATED EVOLUTION OF MATING STRATEGY AND INBREEDING DEPRESSION WITHIN
+    AND AMONG POPULATIONS OF THE HERMAPHRODITIC SNAIL<i>PHYSA ACUTA</i>
+  authors:
+  - Juan S. Escobar
+  - "Beno\xEEt Facon"
+  - Philippe Jarne
+  - "J\xE9r\xF4me Goudet"
+  - Patrice David
+  publisher: Evolution
+  date: '2009-11-01'
+  link: https://doi.org/crwc5d
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/hdy.2008.89
+  title: How accurate is the current picture of human genetic variation?
+  authors:
+  - I G Romero
+  - A Manica
+  - J Goudet
+  - L L Handley
+  - F Balloux
+  publisher: Heredity
+  date: '2008-09-03'
+  link: https://doi.org/cgnfkr
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294X.2008.04058.x
+  title: Inferring recent migration rates from individual genotypes
+  authors:
+  - THOMAS BROQUET
+  - JONATHAN YEARSLEY
+  - ALEXANDRE H. HIRZEL
+  - "J\xC9R\xD4ME GOUDET"
+  - NICOLAS PERRIN
+  publisher: Molecular Ecology
+  date: '2009-03-01'
+  link: https://doi.org/ddt59g
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294X.2009.04102.x
+  title: Parallel changes in genetic diversity and species diversity following a natural
+    disturbance
+  authors:
+  - GUILLAUME EVANNO
+  - EMMANUEL CASTELLA
+  - "C\xC9LINE ANTOINE"
+  - GABRIELLE PAILLAT
+  - "J\xC9R\xD4ME GOUDET"
+  publisher: Molecular Ecology
+  date: '2009-03-01'
+  link: https://doi.org/bqmkvj
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294X.2009.04237.x
+  title: Reduced genetic diversity, increased isolation and multiple introductions
+    of invasive giant hogweed in the western Swiss Alps
+  authors:
+  - P. HENRY
+  - G. LE LAY
+  - J. GOUDET
+  - A. GUISAN
+  - "\u0160. JAHODOV\xC1"
+  - G. BESNARD
+  publisher: Molecular Ecology
+  date: '2009-06-22'
+  link: https://doi.org/fk727p
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1471-8286.2007.01911.x
+  title: A set of primers for plastid indels and nuclear microsatellites in the invasive
+    plant <i>Heracleum mantegazzianum</i> (Apiaceae) and their transferability to
+    <i>Heracleum sphondylium</i>
+  authors:
+  - P. HENRY
+  - J. PROVAN
+  - J. GOUDET
+  - A. GUISAN
+  - "\u0160. JAHODOV\xC1"
+  - G. BESNARD
+  publisher: Molecular Ecology Resources
+  date: '2008-01-01'
+  link: https://doi.org/ck5jrr
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/genetics.108.092452
+  title: "Effects of Selection and Drift on G Matrix Evolution in a Heterogeneous\
+    \ Environment: A Multivariate<i>Q</i>st\u2013<i>F</i>st Test With the Freshwater\
+    \ Snail<i>Galba truncatula</i>"
+  authors:
+  - Elodie Chapuis
+  - Guillaume Martin
+  - "Je\u0301ro\u0302me Goudet"
+  publisher: Genetics
+  date: '2008-12-01'
+  link: https://doi.org/bktgch
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00265-007-0496-x
+  title: 'Gender-role alternation in the simultaneously hermaphroditic freshwater
+    snail Physa acuta: not with the same partner'
+  authors:
+  - "Beno\xEEt Facon"
+  - "Virginie Ravign\xE9"
+  - "J\xE9r\xF4me Goudet"
+  publisher: Behavioral Ecology and Sociobiology
+  date: '2007-09-26'
+  link: https://doi.org/bnxjrp
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/genetics.107.080820
+  title: "Multivariate<i>Q</i>st\u2013<i>F</i>st Comparisons: A Neutrality Test for\
+    \ the Evolution of the G Matrix in Structured Populations"
+  authors:
+  - Guillaume Martin
+  - Elodie Chapuis
+  - "Je\u0301ro\u0302me Goudet"
+  publisher: Genetics
+  date: '2008-12-01'
+  link: https://doi.org/d3t4dr
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btn219
+  title: 'quantiNemo: an individual-based program to simulate quantitative traits
+    with explicit genetic architecture in a dynamic metapopulation'
+  authors:
+  - Samuel Neuenschwander
+  - "Fr\xE9d\xE9ric Hospital"
+  - "Fr\xE9d\xE9ric Guillaume"
+  - "J\xE9r\xF4me Goudet"
+  publisher: Bioinformatics
+  date: '2008-05-01'
+  link: https://doi.org/bnrsnb
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.meegid.2007.07.005
+  title: A step-by-step tutorial to use HierFstat to analyse populations hierarchically
+    structured at multiple levels
+  authors:
+  - "Thierry de Mee\xFBs"
+  - "J\xE9r\xF4me Goudet"
+  publisher: Infection, Genetics and Evolution
+  date: '2007-12-01'
+  link: https://doi.org/chzk43
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.anbehav.2007.02.019
+  title: Effect of mating history on gender preference in the hermaphroditic snail
+    Physa acuta
+  authors:
+  - "Beno\xEEt Facon"
+  - "Virginie Ravign\u0113"
+  - Laure Sauteur
+  - "J\xE9r\xF4me Goudet"
+  publisher: Animal Behaviour
+  date: '2007-11-01'
+  link: https://doi.org/d9gp2j
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tig.2007.07.002
+  title: 'Going the distance: human population genetics in a clinal world'
+  authors:
+  - Lori J. Lawson Handley
+  - Andrea Manica
+  - "J\xE9r\xF4me Goudet"
+  - "Fran\xE7ois Balloux"
+  publisher: Trends in Genetics
+  date: '2007-09-01'
+  link: https://doi.org/dhnwvn
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294X.2007.03386.x
+  title: High quantitative and no molecular differentiation of a freshwater snail
+    (<i>Galba truncatula</i>) between temporary and permanent water habitats
+  authors:
+  - ELODIE CHAPUIS
+  - SANDRINE TROUVE
+  - BENOIT FACON
+  - "LO\xCFC DEGEN"
+  - JEROME GOUDET
+  publisher: Molecular Ecology
+  date: '2007-07-17'
+  link: https://doi.org/fwtpnz
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294X.2007.03330.x
+  title: Reliable selfing rate estimates from imperfect population genetic data
+  authors:
+  - PATRICE DAVID
+  - "BENO\xCET PUJOL"
+  - "FR\xC9D\xC9RIQUE VIARD"
+  - VINCENT CASTELLA
+  - "J\xC9R\xD4ME GOUDET"
+  publisher: Molecular Ecology
+  date: '2007-05-16'
+  link: https://doi.org/fws3mk
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/genetics.106.067173
+  title: "Under Neutrality, <i>Q</i>ST \u2264 <i>F</i>ST When There Is Dominance in\
+    \ an Island Model"
+  authors:
+  - "Je\u0301ro\u0302me Goudet"
+  - Guillaume Martin
+  publisher: Genetics
+  date: '2007-06-01'
+  link: https://doi.org/bfgv24
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1420-9101.2006.01098.x
+  title: Evolutionary aspects of population structure for molecular and quantitative
+    traits in the freshwater snail <i>Radix balthica</i>
+  authors:
+  - G. Evanno
+  - E. Castella
+  - J. Goudet
+  publisher: Journal of Evolutionary Biology
+  date: '2006-07-01'
+  link: https://doi.org/d6zsr9
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10682-006-0009-9
+  title: Experimental evidence of inbreeding avoidance in the hermaphroditic snail
+    Physa acuta
+  authors:
+  - "Beno\xEEt Facon"
+  - "Virginie Ravign\xE9"
+  - "J\xE9r\xF4me Goudet"
+  publisher: Evolutionary Ecology
+  date: '2006-09-01'
+  link: https://doi.org/fd39hx
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1469-8137.2006.01866.x
+  title: Inbreeding effects on progeny sex ratio and gender variation in the gynodioecious
+    <i>Silene vulgaris</i> (Caryophyllaceae)
+  authors:
+  - "M\xE9lanie Glaettli"
+  - "J\xE9r\xF4me Goudet"
+  publisher: New Phytologist
+  date: '2006-09-05'
+  link: https://doi.org/fdnx6f
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/aob/mcl119
+  title: Proximity-dependent Pollen Performance in Silene vulgaris
+  authors:
+  - "M\xC9LANIE GLAETTLI"
+  - LUCA PESCATORE
+  - "J\xC9R\xD4ME GOUDET"
+  publisher: Annals of Botany
+  date: '2006-05-30'
+  link: https://doi.org/dgmpn7
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/genetics.105.050583
+  title: The Effects of Dominance, Regular Inbreeding and Sampling Design on <i>Q</i>ST,
+    an Estimator of Population Differentiation for Quantitative Traits
+  authors:
+  - "Je\u0301ro\u0302me Goudet"
+  - "Lucie Bu\u0308chi"
+  publisher: Genetics
+  date: '2006-02-01'
+  link: https://doi.org/bp2qx8
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1420-9101.2006.01147.x
+  title: Variation in the intensity of inbreeding depression among successive life-cycle
+    stages and generations in gynodioecious <i>Silene vulgaris</i> (Caryophyllaceae)
+  authors:
+  - M. Glaettli
+  - J. Goudet
+  publisher: Journal of Evolutionary Biology
+  date: '2006-11-01'
+  link: https://doi.org/ft49jp
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294X.2005.02553.x
+  title: 'Detecting the number of clusters of individuals using the software <scp>structure</scp>:
+    a simulation study'
+  authors:
+  - G. EVANNO
+  - S. REGNAUT
+  - J. GOUDET
+  publisher: Molecular Ecology
+  date: '2005-05-11'
+  link: https://doi.org/c7m3kr
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1420-9101.2004.00831.x
+  title: Ecological components and evolution of selfing in the freshwater snail <i>Galba
+    truncatula</i>
+  authors:
+  - S. Trouve
+  - L. Degen
+  - J. Goudet
+  publisher: Journal of Evolutionary Biology
+  date: '2004-11-18'
+  link: https://doi.org/dpvd65
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tpb.2005.06.002
+  title: Heterozygote advantage and the maintenance of polymorphism for multilocus
+    traits
+  authors:
+  - Alexandre Ding
+  - "J\xE9r\xF4me Goudet"
+  publisher: Theoretical Population Biology
+  date: '2005-11-01'
+  link: https://doi.org/cc35m9
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.0306441101
+  title: High genetic variability and low local diversity in a population of arbuscular
+    mycorrhizal fungi
+  authors:
+  - Alexander M. Koch
+  - Gerrit Kuhn
+  - Pierre Fontanillas
+  - Luca Fumagalli
+  - "J\xE9r\xF4me Goudet"
+  - Ian R. Sanders
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2004-02-11'
+  link: https://doi.org/dcw2p3
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1420-9101.2004.00755.x
+  title: Synergistic epistasis and alternative hypotheses
+  authors:
+  - S. Trouve
+  - A. Ding
+  - J. Goudet
+  publisher: Journal of Evolutionary Biology
+  date: '2004-11-01'
+  link: https://doi.org/c72x4w
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1471-8286.2003.00449.x
+  title: Isolation and characterization of highly polymorphic microsatellite loci
+    in the bladder campion, <i>Silene vulgaris</i> (Caryophyllaceae)
+  authors:
+  - Nicolas Juillet
+  - "Herv\xC9 Freymond"
+  - "Lo\xEFc Degen"
+  - "J\xC9r\xD4me Goudet"
+  publisher: Molecular Ecology Notes
+  date: '2003-05-13'
+  link: https://doi.org/fnmc8q
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.0014-3820.2003.tb00284.x
+  title: THE ADDITIVE GENETIC VARIANCE AFTER BOTTLENECKS IS AFFECTED BY THE NUMBER
+    OF LOCI INVOLVED IN EPISTATIC INTERACTIONS
+  authors:
+  - Yamama Naciri-Graven
+  - "J\xE9rocme Goudet"
+  publisher: Evolution
+  date: '2003-04-01'
+  link: https://doi.org/drjwk5
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.hdy.6800097
+  title: Geographical and altitudinal population genetic structure of two dung fly
+    species with contrasting mobility and temperature preference
+  authors:
+  - U Kraushaar
+  - J Goudet
+  - W U Blanckenhorn
+  publisher: Heredity
+  date: '2002-07-24'
+  link: https://doi.org/cww7vj
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1365-294X.2002.01474.x
+  title: Statistical properties of population differentiation estimators under stepwise
+    mutation in a finite island model
+  authors:
+  - F. Balloux
+  - J. Goudet
+  publisher: Molecular Ecology
+  date: '2002-04-01'
+  link: https://doi.org/bc4trk
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1365-294X.2002.01496.x
+  title: "Tests for sex\u2010biased dispersal using bi\u2010parentally inherited genetic\
+    \ markers"
+  authors:
+  - "J\xE9r\xF4me Goudet"
+  - Nicolas Perrin
+  - Peter Waser
+  publisher: Molecular Ecology
+  date: '2002-05-28'
+  link: https://doi.org/fsshsr
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0169-5347(02)02467-9
+  title: 'The correlation between inbreeding and fitness: does allele size matter?'
+  authors:
+  - J Goudet
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2002-05-01'
+  link: https://doi.org/c7s4nv
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.0014-3820.2000.tb00573.x
+  title: 'MICROSATELLITES CAN BE MISLEADING: AN EMPIRICAL AND SIMULATION STUDY'
+  authors:
+  - "Fran\xE7ois Balloux"
+  - Harald Brunner
+  - Nicolas Lugon-Moulin
+  - Jacques Hausser
+  - "J\xE9ar\xF4me Goudet"
+  publisher: Evolution
+  date: '2000-08-01'
+  link: https://doi.org/bbcsx6
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1365-294X.2000.01040-2.x
+  title: Microsatellites in the hermaphroditic snail, <i>Lymnaea truncatula</i>, intermediate
+    host of the liver fluke, <i>Fasciola hepatica</i>
+  authors:
+  - "S. Trouv\xE9"
+  - L. Degen
+  - C. Meunier
+  - C. Tirard
+  - "S. Hurtrez\u2010Bouss\xE8s"
+  - P. Durand
+  - "J. F. Gu\xE9gan"
+  - J. Goudet
+  - F. Renaud
+  publisher: Molecular Ecology
+  date: '2000-10-01'
+  link: https://doi.org/ffc5tf
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1086/303190
+  title: An Improved Procedure for Testing the Effects of Key Innovations on Rate
+    of Speciation
+  authors:
+  - "J\xE9r\xF4me Goudet"
+  publisher: The American Naturalist
+  date: '1999-05-01'
+  link: https://doi.org/b2pvmg
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1365-2540.1999.00567.x
+  title: Do riverine barriers, history or introgression shape the genetic structuring
+    of a common shrew (Sorex araneus) population?
+  authors:
+  - Nicolas Lugon-moulin
+  - "Harald Br\xFCnner"
+  - "Fran\xE7ois Balloux"
+  - Jacques Hausser
+  - "J\xE9r\xF4me Goudet"
+  publisher: Heredity
+  date: '1999-08-01'
+  link: https://doi.org/bpbgj8
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/00207713-49-1-231
+  title: Genetic structure of the genus Leptospira by multilocus enzyme electrophoresis
+  authors:
+  - M. Letocart
+  - P. Boerlin
+  - F. Boerlin-Petzold
+  - J. Goudet
+  - G. Baranton
+  - P. Perolat
+  publisher: International Journal of Systematic and Evolutionary Microbiology
+  date: '1999-01-01'
+  link: https://doi.org/ch3nfg
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1365-294X.1999.00595.x
+  title: 'Hierarchical analyses of genetic differentiation in a hybrid zone of <i>Sorex
+    araneus</i> (Insectivora: Soricidae)'
+  authors:
+  - "N. LUGON\u2010MOULIN"
+  - "H. BR\xDCNNER"
+  - A. WYTTENBACH
+  - J. HAUSSER
+  - J. GOUDET
+  publisher: Molecular Ecology
+  date: '1999-03-01'
+  link: https://doi.org/bffkwq
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/oxfordjournals.molbev.a025945
+  title: Microsatellite conservation, polymorphism, and GC content in shrews of the
+    genus Sorex (Insectivora, Mammalia)
+  authors:
+  - F. Balloux
+  - E. Ecoffey
+  - L. Fumagalli
+  - J. Goudet
+  - A. Wyttenbach
+  - J. Hausser
+  publisher: Molecular Biology and Evolution
+  date: '1998-04-01'
+  link: https://doi.org/g9tmr6
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.1998.0337
+  title: "Rate of gene sequence evolution and species diversification in flowering\
+    \ plants: a re\u2013evaluation"
+  authors:
+  - Vincent Savolainen
+  - "J\xE9r\xF4me Goudet"
+  publisher: 'Proceedings of the Royal Society of London. Series B: Biological Sciences'
+  date: '1998-04-07'
+  link: https://doi.org/fhdsfs
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1365-2540.1998.00348.x
+  title: Restricted gene flow and subpopulation differentiation in Silene dioica
+  authors:
+  - Barbara E Giles
+  - Elisabeth Lundqvist
+  - "J\xE9r\xF4me Goudet"
+  publisher: Heredity
+  date: '1998-06-01'
+  link: https://doi.org/dh72bf
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.1997.0019
+  title: 'Female-biased dispersal in the monogamous mammal<i>Crocidura russula</i>:
+    evidence from field data and microsatellite patterns.'
+  authors:
+  - Laurence Favre
+  - "Fran\xE7ois Balloux"
+  - Jerome Goudet
+  - Nicolas Perrin
+  publisher: 'Proceedings of the Royal Society of London. Series B: Biological Sciences'
+  date: '1997-01-22'
+  link: https://doi.org/dn8t78
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1086/286002
+  title: 'Genetic Differentiation in Silene dioica Metapopulations: Estimation of
+    Spatiotemporal Effects in a Successional Plant Species'
+  authors:
+  - Barbara E. Giles
+  - Jerome Goudet
+  publisher: The American Naturalist
+  date: '1997-03-01'
+  link: https://doi.org/dczcz3
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294X.1996.tb00288.x
+  title: 'Genetic differentiation of continental and island populations of <i>Bombus
+    terrestris</i> (Hymenoptera: Apidae) in Europe'
+  authors:
+  - A. ESTOUP
+  - M. SOLIGNAC
+  - J. M. CORNUET
+  - J. GOUDET
+  - A. SCHOLL
+  publisher: Molecular Ecology
+  date: '1996-02-01'
+  link: https://doi.org/cjnjxj
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/hdy.1996.17
+  title: Genetic structure of a linear population of Beta vulgaris ssp. maritima (sea
+    beet) revealed by isozyme and RFLP analysis
+  authors:
+  - A F Raybould
+  - J Goudet
+  - R J Mogg
+  - C J Gliddon
+  - A J Gray
+  publisher: Heredity
+  date: '1996-02-01'
+  link: https://doi.org/bgzchq
+  orcid: 0000-0002-5318-7601
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/oxfordjournals.jhered.a111627
+  title: 'FSTAT (Version 1.2): A Computer Program to Calculate F-Statistics'
+  authors:
+  - J. Goudet
+  publisher: Journal of Heredity
+  date: '1995-11-01'
+  link: https://doi.org/gjtzb3
+  orcid: 0000-0002-5318-7601
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -201,9 +1698,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -220,21 +1714,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
