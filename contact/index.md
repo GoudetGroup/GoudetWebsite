@@ -19,7 +19,6 @@ Feel free to contact us for any requests! Personal e-mail address are also avail
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  text="UNIL - Biophore"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/4pwigL1jcuXh8uSx6)"
+  link="https://www.google.ch/maps"
 %}
 
