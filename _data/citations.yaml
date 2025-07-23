@@ -1685,6 +1685,22 @@
   orcid: 0000-0002-5318-7601
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1017/S0031182025000575
+  title: Genetic characterization of the bat and human lineages of the common bed
+    bug (<i>Cimex lectularius</i>) at a local scale
+  authors:
+  - Clara Castex
+  - Antoine Perrin
+  - "Laura Cl\xE9ment"
+  - "Pierre Perr\xE9az"
+  - "J\xE9r\xF4me Goudet"
+  - Philippe Christe
+  publisher: Parasitology
+  date: '2025-04-01'
+  link: https://doi.org/g9tzw6
+  orcid: 0009-0006-3500-4169
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/evlett/qrad048
   title: The evolution of genetic covariance and modularity as a result of multigenerational
     environmental fluctuation
